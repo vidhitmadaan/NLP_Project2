@@ -91,5 +91,5 @@ Include voice query recognition
 
 Name: Vidhit Madaan
 Roll No: 2301201179
-Section: [Add your section here]
+Section: C
 Subject: NLP (Natural Language Processing) Project
